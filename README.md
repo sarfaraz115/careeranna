@@ -1,3 +1,3 @@
 # careeranna
 Online Learning
-MBA, BANKING,CAT,GAT
+MBA, BANKING,CAT,GATE
